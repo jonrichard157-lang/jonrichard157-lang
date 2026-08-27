@@ -181,11 +181,12 @@ I'm especially interested in internship and entry-level opportunities in Backend
 
 ---
 
-📊 GitHub Stats
+📊 <h2>📊 GitHub Stats</h2>
 
-"João's GitHub stats" (https://github-readme-stats.vercel.app/api?username=jonrichard157-lang&show_icons=true&hide_border=true&count_private=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=jonrichard157-lang&layout=compact&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonrichard157-lang&show_icons=true&hide_border=true&count_private=true" alt="João's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonrichard157-lang&layout=compact&hide_border=true" alt="Top Languages" height="180"/>
+</p>
 
 ---
 
